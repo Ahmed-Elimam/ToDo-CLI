@@ -1,0 +1,23 @@
+{
+  "name": "todolist-cli",
+  "version": "1.0.0",
+  "description": "ToDo CLI using commander",
+  "homepage": "https://github.com/Ahmed-Elimam/ToDo-CLI#readme",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Elimam/ToDo-CLI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Elimam/ToDo-CLI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
